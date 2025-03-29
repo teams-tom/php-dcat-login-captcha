@@ -3,7 +3,9 @@
 
 ## 预览
 
-![LoginCaptcha](https://user-images.githubusercontent.com/24578855/109408841-53b93980-79c8-11eb-8293-f41b629838a5.jpg)
+![LoginCaptcha](http://sswekc8e1.hd-bkt.clouddn.com/typora/20250329195946941.jpg)
+
+![LoginCaptchaSetting](http://sswekc8e1.hd-bkt.clouddn.com/typora/20250329200003165.jpg)
 
 
 ## 环境
@@ -31,4 +33,5 @@ composer require lake/login-captcha
 
 ## 版权
 
+*  该插件基于https://github.com/deatil二开
 *  该系统所属版权归 deatil(https://github.com/deatil) 所有。
