@@ -18,7 +18,7 @@
 ### composer 安装
 
 ```
-composer require lake/login-captcha
+composer require teamstom/login-captcha
 ```
 
 ### 安装扩展
