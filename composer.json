@@ -5,7 +5,7 @@
     "type": "library",
     "keywords": [
         "dcat-admin",
-        "lake",
+        "teamstom",
         "captcha",
         "login-captcha",
         "extension"
@@ -25,14 +25,14 @@
     },
     "autoload": {
         "psr-4": {
-            "Tom\\LoginCaptcha\\": "src/"
+            "TeamsTom\\LoginCaptcha\\": "src/"
         }
     },
     "extra": {
-        "dcat-admin": "Tom\\LoginCaptcha\\ServiceProvider",
+        "dcat-admin": "TeamsTom\\LoginCaptcha\\ServiceProvider",
         "laravel": {
             "providers": [
-                "Tom\\LoginCaptcha\\ServiceProvider"
+                "TeamsTom\\LoginCaptcha\\ServiceProvider"
             ]
         }
     }

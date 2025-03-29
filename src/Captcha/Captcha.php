@@ -1,6 +1,6 @@
 <?php
 
-namespace Lake\LoginCaptcha\Captcha;
+namespace TeamsTom\LoginCaptcha\Captcha;
 
 use Illuminate\Support\Facades\Session;
 

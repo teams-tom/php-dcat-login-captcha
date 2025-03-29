@@ -1,6 +1,6 @@
 <?php
 
-namespace Lake\LoginCaptcha;
+namespace TeamsTom\LoginCaptcha;
 
 use Dcat\Admin\Extend\Setting as Form;
 use Dcat\Admin\Support\Helper;
